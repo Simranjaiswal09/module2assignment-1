@@ -21,8 +21,6 @@ section{
 		text-align: justify;
 		margin-right: auto;
 		margin-left: auto;
-		margin-top: auto;
-		margin-bottom: auto;
         font-family: Helvetica;
 		color: white;
 
